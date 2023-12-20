@@ -1,7 +1,6 @@
 ## faaizasaand
 
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
